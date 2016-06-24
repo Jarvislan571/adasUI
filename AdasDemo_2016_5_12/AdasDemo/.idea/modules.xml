@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AdasDemo.iml" filepath="$PROJECT_DIR$/AdasDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/adas/adas.iml" filepath="$PROJECT_DIR$/adas/adas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/adasdemo/adasdemo.iml" filepath="$PROJECT_DIR$/adasdemo/adasdemo.iml" />
+    </modules>
+  </component>
+</project>
