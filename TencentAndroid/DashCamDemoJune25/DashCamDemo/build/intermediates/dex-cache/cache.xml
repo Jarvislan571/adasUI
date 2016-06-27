@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/goddess/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/goddess/workspace/adas_ui/TencentAndroid/DashCamDemoJune25/DashCamDemo/adasdemo/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_a035b5e83fbc37e22616ea56d46f9960db7daed4/classes.dex" />
+    </item>
+    <item
+        jar="/home/goddess/workspace/adas_ui/TencentAndroid/DashCamDemoJune25/DashCamDemo/adasdemo/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/goddess/workspace/adas_ui/TencentAndroid/DashCamDemoJune25/DashCamDemo/adasdemo/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_2c334e41ec7265346402f54f151c3c3015b18082/classes.dex" />
+    </item>
+    <item
+        jar="/home/goddess/workspace/adas_ui/TencentAndroid/DashCamDemoJune25/DashCamDemo/adasdemo/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="369cdc89db80f506029ebd2de937271b61eadc10">
+        <dex dex="/home/goddess/workspace/adas_ui/TencentAndroid/DashCamDemoJune25/DashCamDemo/adasdemo/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_fb8808eb113f85936704934e6ffd7877ea36f43c/classes.dex" />
+    </item>
+    <item
+        jar="/home/goddess/workspace/adas_ui/TencentAndroid/DashCamDemoJune25/DashCamDemo/adasdemo/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/goddess/workspace/adas_ui/TencentAndroid/DashCamDemoJune25/DashCamDemo/adasdemo/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_2ca704dde14b5a0acac11e8954e1fd375f3ee21a/classes.dex" />
+    </item>
+    <item
+        jar="/home/goddess/workspace/adas_ui/TencentAndroid/DashCamDemoJune25/DashCamDemo/adasdemo/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/goddess/workspace/adas_ui/TencentAndroid/DashCamDemoJune25/DashCamDemo/adasdemo/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_18314a0f47ee6df743882ecbc9ad3cfe0d2c5b9c/classes.dex" />
+    </item>
+    <item
+        jar="/home/goddess/workspace/adas_ui/TencentAndroid/DashCamDemoJune25/DashCamDemo/adasdemo/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2cf11d0075730f1ac670bc1783c29fe1f5fd3df9">
+        <dex dex="/home/goddess/workspace/adas_ui/TencentAndroid/DashCamDemoJune25/DashCamDemo/adasdemo/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7f4235328cc956c72d1c952319ec5b007ed332f1/classes.dex" />
+    </item>
+    <item
+        jar="/home/goddess/workspace/adas_ui/TencentAndroid/DashCamDemoJune25/DashCamDemo/adasdemo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/goddess/workspace/adas_ui/TencentAndroid/DashCamDemoJune25/DashCamDemo/adasdemo/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_b85ea2c671494563496528ac39c8fffa12d7251e/classes.dex" />
+    </item>
+    <item
+        jar="/home/goddess/workspace/adas_ui/TencentAndroid/DashCamDemoJune25/DashCamDemo/adasdemo/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/goddess/workspace/adas_ui/TencentAndroid/DashCamDemoJune25/DashCamDemo/adasdemo/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_9f9e527589751b02191926a390e0c47f726bc3ce/classes.dex" />
+    </item>
+    <item
+        jar="/home/goddess/.gradle/caches/modules-2/files-2.1/org.jcodec/jcodec-android/0.1.9/390f4672af45d022b05015e21388e6836178f0bb/jcodec-android-0.1.9.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="390f4672af45d022b05015e21388e6836178f0bb">
+        <dex dex="/home/goddess/workspace/adas_ui/TencentAndroid/DashCamDemoJune25/DashCamDemo/adasdemo/build/intermediates/transforms/dex/debug/folders/1000/10/jcodec-android-0.1.9_2a6e178159b88fa0aaaf574341260d3e60d13203/classes.dex" />
+    </item>
+    <item
+        jar="/home/goddess/.gradle/caches/modules-2/files-2.1/org.jcodec/jcodec/0.1.9/d874724f18c8ebc54931d1ab9b4603b7c6a7cf93/jcodec-0.1.9.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d874724f18c8ebc54931d1ab9b4603b7c6a7cf93">
+        <dex dex="/home/goddess/workspace/adas_ui/TencentAndroid/DashCamDemoJune25/DashCamDemo/adasdemo/build/intermediates/transforms/dex/debug/folders/1000/10/jcodec-0.1.9_511be98968b6a51015417c2695dbdc2f51aa4131/classes.dex" />
+    </item>
+
+</items>

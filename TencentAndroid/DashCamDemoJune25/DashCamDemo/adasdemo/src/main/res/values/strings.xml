@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">adasdemo</string>
+    <string name="txt_local_video">本地视频</string>
+    <string name="camera_preview">相机预览</string>
+</resources>
